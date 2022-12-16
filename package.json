@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@blueprintjs/core": "^4.13.0",
+    "@monaco-editor/react": "^4.4.6",
+    "classnames": "^2.3.2",
     "eslint": "8.28.0",
     "eslint-config-next": "13.0.6",
     "next": "13.0.6",
